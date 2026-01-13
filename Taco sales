@@ -1,0 +1,62 @@
+# 🌮 TacoGo Sales Dashboard
+
+
+---
+ 
+## 🎯 Key Objectives
+
+* Track overall sales and order performance
+* Identify best-performing taco types, sizes, and restaurants
+* Monitor monthly order trends
+* Evaluate delivery efficiency
+* Compare current year performance with the previous year
+
+---
+
+## 📊 Key KPIs
+
+* **Total Revenue:** $7K
+* **Total Tips:** $2K
+* **Total Orders:** 1K
+* **Avg Delivery Distance:** 13
+* **Avg Delivery Duration:** 51
+* **YoY % Change:** Shown for all KPIs
+
+---
+
+## 📈 Dashboard Insights
+
+* **Orders by Taco Type:** Shows customer preference across taco categories
+* **Monthly Orders Trend:** Highlights seasonal patterns and demand changes
+* **Orders by Restaurant:** Ranks restaurants by performance
+* **Revenue by Taco Size:** Compares revenue from Large vs Regular tacos
+
+---
+
+## 🎛 Filters
+
+* **Year Selector:** View performance for a specific year or all years
+
+---
+
+## 🛠 Tool Used
+
+* **Power BI** – Data visualization
+
+---
+
+## 💡 Business Value
+
+* Supports sales and menu optimization
+* Identifies top-performing restaurants and products
+* Helps improve delivery and operational efficiency
+
+---
+
+## 📎 Author
+
+**Onome Otomewo**
+Data Analyst | Business Intelligence Enthusiast
+
+---
+
